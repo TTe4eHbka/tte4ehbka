@@ -7,4 +7,7 @@
 ![C++](https://img.shields.io/badge/-C++-110D05?style=for-the-badge&logo=C%2b%2b&logoColor=0070FF)
 ![Sql](https://img.shields.io/badge/-Sql-110D05?style=for-the-badge&logo=mysql&logoColor=FF0092)
 
-Follow Me
+### Follow Me
+![Vkontakte](https://img.shields.io/badge/-Vkontakte-110D05?style=for-the-badge&logo=VK&logoColor=EDA108)
+![Instagram](https://img.shields.io/badge/-Instagram-110D05?style=for-the-badge&logo=instagram&logoColor=EDA108)
+![Telegram](https://img.shields.io/badge/-Telegram-110D05?style=for-the-badge&logo=telegram&logoColor=EDA108)
