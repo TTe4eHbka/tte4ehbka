@@ -9,5 +9,5 @@
 
 ### Follow Me
 ![Vkontakte](https://img.shields.io/badge/-Vkontakte-110D05?style=for-the-badge&logo=VK&logoColor=2787F5)
-![Instagram](https://img.shields.io/badge/-Instagram-110D05?style=for-the-badge&logo=instagram&logoColor=8F51F7)
+![Instagram](https://img.shields.io/badge/-Instagram-110D05?style=for-the-badge&logo=instagram&logoColor=F527F0)
 ![Telegram](https://img.shields.io/badge/-Telegram-110D05?style=for-the-badge&logo=telegram&logoColor=EDA108)
