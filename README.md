@@ -12,4 +12,4 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-110D05?style=for-the-badge&logo=instagram&logoColor=F527F0)](https://www.instagram.com/tte4ehbkas/)
 [![Telegram](https://img.shields.io/badge/-Telegram-110D05?style=for-the-badge&logo=telegram&logoColor=EDA108)](https://t.me/oARCHIMEDo)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TTe4eHbka&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TTe4eHbka&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
